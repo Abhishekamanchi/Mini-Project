@@ -38,7 +38,7 @@ To deploy this project run, I have used [Netlify.com](https://www.netlify.com/)
 **CSS 3**
 ## Demo
 
-[Click here to see](https://jolly-mayer-14d6da.netlify.app/)
+[Click here to see](https://abhishekamanchi.netlify.app/)
 
   
 ## Feedback
